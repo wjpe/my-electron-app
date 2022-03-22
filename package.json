@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "My first test electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "wjpe",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+  
+}
